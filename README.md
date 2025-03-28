@@ -6,9 +6,7 @@
 Please find the screenshots of the tests performed in the file App_Screenprints.pdf
 
 To run the app locally, you need to have Python installed on your machine.
-1. Install dependencies
-Install chromadb langchain langchain-community pdfplumber PyPDFLoader flask pydantic using the command
-pip install <dependency-name>
+1. Install dependencies using pip install <dependency-name>:  
 ```
 pip install flask
 pip install pandas
