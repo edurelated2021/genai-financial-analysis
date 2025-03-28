@@ -5,8 +5,8 @@
 
 Please find the screenshots of the tests performed in the file App_Screenprints.pdf
 
-To run the app locally, you need to have Python installed on your machine.
-1. Install dependencies using pip install <dependency-name>:  
+To run the app locally, you need to have Python installed on your machine. This project uses RAG pattern and need a vector database Chromadb.  
+1. Install dependencies using pip install [dependency name]:  
 ```
 pip install flask
 pip install pandas
